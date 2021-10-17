@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tianchen Ji"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "ML ∩ Robotics researcher, amateur photographer， seafood hunter"
   location         : "268 CSL"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9XgufxkAAAAJ&hl=en"
-  email            : "tj12@illinois.edu"
+  email            : tj12@illinois.edu
   researchgate     :
   uri              :
   bitbucket        :
