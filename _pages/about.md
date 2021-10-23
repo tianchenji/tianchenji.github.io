@@ -21,6 +21,6 @@ Research interests:
 News
 ---
 - **02/2021:** I am honored to serve on the organizing committee at [CSLSC 2021](https://publish.illinois.edu/csl-student-conference-2021/)!
-- **10/2020:** Our paper "Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments" has been accepted by [CoRL 2020](https://corlconf.github.io/corl2020/paper_324/)! Mini-Abstract: Sense to perceive!
-- **05/2020:** Our paper "Online Monitoring for Safe Pedestrian-Vehicle Interactions" has been accepted by [ITSC 2020](https://ieeexplore.ieee.org/abstract/document/9294366)! Mini-Abstract: Drive safe!
+- **10/2020:** Our paper "Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments" has been accepted by [CoRL 2020](https://corlconf.github.io/corl2020/paper_324/)! Mini-abstract: Sense to perceive!
+- **05/2020:** Our paper "Online Monitoring for Safe Pedestrian-Vehicle Interactions" has been accepted by [ITSC 2020](https://ieeexplore.ieee.org/abstract/document/9294366)! Mini-abstract: Drive safe!
 - **08/2019:** Start my PhD journey in [HCA Lab](https://publish.illinois.edu/humancenteredautonomy/)!
