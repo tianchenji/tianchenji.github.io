@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<img align="left" style="height: 100px; width:200px;" src="/images/publications-svae.png">
 
-{% include base_path %}
+### **Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments**
+**Tianchen Ji**, Sri Theja Vuppala, Girish Chowdhary, Katherine Driggs-Campbell
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Conference on Robot Learning (**CoRL**), 2020
