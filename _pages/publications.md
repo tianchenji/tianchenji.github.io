@@ -14,6 +14,6 @@ Conference on Robot Learning (**CoRL**), 2020
 <br/><br/>
 <img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-gem.png">
 **Online Monitoring for Safe Pedestrian-Vehicle Interactions**  
-Peter Du, Zhe Huang*, Tianqi Liu*, **Tianchen Ji***, Ke Xu*, Qichao Gao*, Hussein Sibai, Katherine Driggs-Campbell, Sayan Mitra  
+Peter Du, Zhe Huang\*, Tianqi Liu\*, **Tianchen Ji\***, Ke Xu\*, Qichao Gao\*, Hussein Sibai, Katherine Driggs-Campbell, Sayan Mitra  
 International Conference on Intelligent Transportation Systems (**ITSC**), 2020  
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9294366)
