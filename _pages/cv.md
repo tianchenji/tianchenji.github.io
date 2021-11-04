@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Under construction.
+Please find my CV [here](/files/CV.pdf).
