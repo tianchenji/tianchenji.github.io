@@ -10,7 +10,7 @@ author_profile: true
 **Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion**  
 **Tianchen Ji**, Arun Narenthiran Sivakumar, Girish Chowdhary, Katherine Driggs-Campbell  
 IEEE Robotics and Automation Letters (**RA-L**), 2022  
-[[Paper]](https://ieeexplore.ieee.org/document/9720937) [[Video]](https://www.youtube.com/watch?v=7jFLdpNEiXM) [[Github]](https://github.com/tianchenji/PAAD)  
+[[Paper]](https://ieeexplore.ieee.org/document/9720937) [[Github]](https://github.com/tianchenji/PAAD) [[Video]](https://www.youtube.com/watch?v=7jFLdpNEiXM)  
 <br/><br/>
 <img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-svae.png">
 **Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments**  
