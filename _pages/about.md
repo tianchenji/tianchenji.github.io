@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third year PhD student in [HCA Lab](https://publish.illinois.edu/humancenteredautonomy/) in [Electrical and Computer Engineering](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by Professor [Katie Driggs-Campbell](https://krdc.web.illinois.edu/). Before my PhD journey, I was an undergraduate at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), where I majored in Electrical Engineering.
 
-My current research focuses on the intersection of machine learning and robotics. My lifelong goal is to bring research ideas in papers to technology in daily life.
+My current research focuses on the intersection of robotics and machine learning. My lifelong goal is to bring research ideas in papers to technology in daily life.
 
 Research interests:
 - Robot Perception
@@ -20,6 +20,7 @@ Research interests:
 
 News
 ---
+- **01/2022:** Our paper "Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion" has been accepted by [RA-L](https://ieeexplore.ieee.org/document/9720937)! Mini-abstract: Sensor fusion matters!
 - **02/2021:** I am honored to serve on the organizing committee at [CSLSC 2021](https://publish.illinois.edu/csl-student-conference-2021/)!
 - **10/2020:** Our paper "Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments" has been accepted by [CoRL 2020](https://proceedings.mlr.press/v155/ji21a.html)! Mini-abstract: Sense to perceive!
 - **05/2020:** Our paper "Online Monitoring for Safe Pedestrian-Vehicle Interactions" has been accepted by [ITSC 2020](https://ieeexplore.ieee.org/abstract/document/9294366)! Mini-abstract: Drive safe!
