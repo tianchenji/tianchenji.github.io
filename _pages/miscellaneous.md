@@ -10,3 +10,6 @@ author_profile: true
 
 ### City
 <img style="width:400px; height:auto" src="/images/misc-uae.jpg"> <img style="width:400px; height:auto" src="/images/misc-japan.jpg">
+
+### Lives on earth
+<img style="width:400px; height:auto" src="/images/misc-penguin.jpg"> <img style="width:400px; height:auto" src="/images/misc-bird.jpg">
