@@ -20,6 +20,7 @@ Research interests:
 
 News
 ---
+- **04/2022:** Our paper "Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance" has been accepted by [RSS 2022](https://roboticsconference.org/)! See you in New York in June!
 - **01/2022:** Our paper "Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion" has been accepted by [RA-L](https://ieeexplore.ieee.org/document/9720937)! Mini-abstract: Sensor fusion matters!
 - **02/2021:** I am honored to serve on the organizing committee at [CSLSC 2021](https://publish.illinois.edu/csl-student-conference-2021/)!
 - **10/2020:** Our paper "Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments" has been accepted by [CoRL 2020](https://proceedings.mlr.press/v155/ji21a.html)! Mini-abstract: Sense to perceive!
