@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 <br/><br/>
+<img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-ptp.png">
+**Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance**  
+**Tianchen Ji**, Roy Dong, Katherine Driggs-Campbell  
+Robotics: Science and Systems (**RSS**), 2022  
+[[Paper]](https://roboticsconference.org/program/papers/059/) [[Video]](https://youtu.be/cd1_3ZhNXAk?t=2499)  
+<br/><br/>
 <img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-paad.png">
 **Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion**  
 **Tianchen Ji**, Arun Narenthiran Sivakumar, Girish Chowdhary, Katherine Driggs-Campbell  
