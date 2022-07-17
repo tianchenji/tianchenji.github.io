@@ -18,7 +18,7 @@ Robotics: Science and Systems (**RSS**), 2022
 IEEE Robotics and Automation Letters (**RA-L**), 2022  
 [[Paper]](https://ieeexplore.ieee.org/document/9720937) [[Github]](https://github.com/tianchenji/PAAD) [[Video]](https://www.youtube.com/watch?v=7jFLdpNEiXM)  
 <br/><br/>
-<img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-mpc.png">
+<img align="left" style="width:230px; height:140px; margin-right:30px" src="/images/publications-mpc.png">
 **Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty**  
 **Tianchen Ji**, Junyi Geng, Katherine Driggs-Campbell  
 IEEE Conference on Decision and Control (**CDC**), 2022  
