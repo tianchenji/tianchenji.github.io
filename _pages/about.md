@@ -20,7 +20,10 @@ Research interests:
 
 News
 ---
-- **04/2022:** Our paper "Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance" has been accepted by [RSS 2022](https://roboticsconference.org/)! See you in New York in June!
+- **07/2022** Our paper "Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty" has been accepted by [CDC 2022](https://cdc2022.ieeecss.org/)!
+- **06/2022** Our paper "Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation" has been accepted by [ITSC 2022](https://www.ieee-itsc2022.org/#/)!
+- **05/2022** Our paper "Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots" has been accepted by [RO-MAN 2022](http://www.ro-man2022.org/)!
+- **04/2022:** Our paper "Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance" has been accepted by [RSS 2022](https://roboticsconference.org/program/papers/059/)! See you in New York in June!
 - **01/2022:** Our paper "Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion" has been accepted by [RA-L](https://ieeexplore.ieee.org/document/9720937)! Mini-abstract: Sensor fusion matters!
 - **02/2021:** I am honored to serve on the organizing committee at [CSLSC 2021](https://publish.illinois.edu/csl-student-conference-2021/)!
 - **10/2020:** Our paper "Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments" has been accepted by [CoRL 2020](https://proceedings.mlr.press/v155/ji21a.html)! Mini-abstract: Sense to perceive!
