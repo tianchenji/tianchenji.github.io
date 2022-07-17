@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <br/><br/>
-<img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-ptp.png">
+<img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-ptp.png">
 **Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance**  
 **Tianchen Ji**, Roy Dong, Katherine Driggs-Campbell  
 Robotics: Science and Systems (**RSS**), 2022  
@@ -17,6 +17,12 @@ Robotics: Science and Systems (**RSS**), 2022
 **Tianchen Ji**, Arun Narenthiran Sivakumar, Girish Chowdhary, Katherine Driggs-Campbell  
 IEEE Robotics and Automation Letters (**RA-L**), 2022  
 [[Paper]](https://ieeexplore.ieee.org/document/9720937) [[Github]](https://github.com/tianchenji/PAAD) [[Video]](https://www.youtube.com/watch?v=7jFLdpNEiXM)  
+<br/><br/>
+<img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-mpc.png">
+**Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty**  
+**Tianchen Ji**, Junyi Geng, Katherine Driggs-Campbell  
+IEEE Conference on Decision and Control (**CDC**), 2022  
+[[Paper]](http://128.84.21.203/pdf/2008.04980)  
 <br/><br/>
 <img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-svae.png">
 **Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments**  
