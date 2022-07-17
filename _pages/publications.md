@@ -22,7 +22,7 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022
 **Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty**  
 **Tianchen Ji**, Junyi Geng, Katherine Driggs-Campbell  
 IEEE Conference on Decision and Control (**CDC**), 2022  
-[[Paper]](http://128.84.21.203/pdf/2008.04980)  
+[[Paper]](http://128.84.21.203/pdf/2008.04980)
 <br/><br/>
 <img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-svae.png">
 **Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments**  
