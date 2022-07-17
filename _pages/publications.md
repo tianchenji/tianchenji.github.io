@@ -10,7 +10,7 @@ author_profile: true
 **Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance**  
 **Tianchen Ji**, Roy Dong, Katherine Driggs-Campbell  
 Robotics: Science and Systems (**RSS**), 2022  
-[[Paper]](https://roboticsconference.org/program/papers/059/) [[Video]](https://youtu.be/cd1_3ZhNXAk?t=2499)
+[[Paper]](https://roboticsconference.org/program/papers/059/) [[Video]](https://youtu.be/cd1_3ZhNXAk?t=2499)  
 <br/><br/>
 <img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-paad.png">
 **Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion**  
@@ -22,7 +22,7 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022
 **Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty**  
 **Tianchen Ji**, Junyi Geng, Katherine Driggs-Campbell  
 IEEE Conference on Decision and Control (**CDC**), 2022  
-[[Paper]](http://128.84.21.203/pdf/2008.04980)
+[[Paper]](http://128.84.21.203/pdf/2008.04980)  
 <br/><br/>
 <img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-svae.png">
 **Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments**  
