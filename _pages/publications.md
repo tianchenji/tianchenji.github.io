@@ -12,7 +12,7 @@ author_profile: true
 Robotics: Science and Systems (**RSS**), 2022  
 [[Paper]](https://roboticsconference.org/program/papers/059/) [[Video]](https://youtu.be/cd1_3ZhNXAk?t=2499)  
 <br/><br/>
-<img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-paad.png">
+<img align="left" style="width:230px; height:140px; margin-right:30px" src="/images/publications-paad.png">
 **Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion**  
 **Tianchen Ji**, Arun Narenthiran Sivakumar, Girish Chowdhary, Katherine Driggs-Campbell  
 IEEE Robotics and Automation Letters (**RA-L**), 2022  
@@ -24,13 +24,13 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022
 IEEE Conference on Decision and Control (**CDC**), 2022  
 [[Paper]](http://128.84.21.203/pdf/2008.04980)  
 <br/><br/>
-<img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-ts.png">
+<img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-ts.png">
 **Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation**  
 Haonan Chen, **Tianchen Ji**, Shuijing Liu, Katherine Driggs-Campbell  
 IEEE International Conference on Intelligent Transportation Systems (**ITSC**), 2022  
 Note: To appear  
 <br/><br/>
-<img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-audio.jpg">
+<img align="left" style="width:230px; height:140px; margin-right:30px" src="/images/publications-audio.jpg">
 **Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots**  
 Abhi Kamboj, **Tianchen Ji**, Katherine Driggs-Campbell  
 IEEE International Conference on Robot & Human Interactive Communication (**RO-MAN**), 2022  
