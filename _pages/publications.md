@@ -29,6 +29,11 @@ IEEE Conference on Decision and Control (**CDC**), 2022
 Haonan Chen, **Tianchen Ji**, Shuijing Liu, Katherine Driggs-Campbell  
 IEEE International Conference on Intelligent Transportation Systems (**ITSC**), 2022  
 <br/><br/>
+<img align="left" style="width:230px; height:120px; margin-right:30px" src="/images/publications-audio.jpg">
+**Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots**  
+Abhi Kamboj, **Tianchen Ji**, Katherine Driggs-Campbell  
+IEEE International Conference on Robot and Human Interactive Communication (**RO-MAN**), 2022  
+<br/><br/>
 <img align="left" style="width:230px; height:auto; margin-right:30px" src="/images/publications-svae.png">
 **Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments**  
 **Tianchen Ji**, Sri Theja Vuppala, Girish Chowdhary, Katherine Driggs-Campbell  
