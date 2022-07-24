@@ -24,7 +24,7 @@ IEEE Robotics and Automation Letters (**RA-L**), 2022
 IEEE Conference on Decision and Control (**CDC**), 2022  
 [[Paper]](http://128.84.21.203/pdf/2008.04980)  
 <br/><br/>
-<img align="left" style="width:230px; height:auto; margin-right:30px; margin-bottom:70px" src="/images/publications-ts.png">
+<img align="left" style="width:230px; height:auto; margin-right:30px; margin-bottom:60px" src="/images/publications-ts.png">
 **Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation**  
 Haonan Chen, **Tianchen Ji**, Shuijing Liu, Katherine Driggs-Campbell  
 IEEE International Conference on Intelligent Transportation Systems (**ITSC**), 2022  
