@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student in [HCA Lab](https://publish.illinois.edu/humancenteredautonomy/) in [Electrical and Computer Engineering](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by Professor [Katie Driggs-Campbell](https://krdc.web.illinois.edu/). Before my PhD journey, I was an undergraduate at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), where I majored in Electrical Engineering.
+I'm a fourth year PhD student in [HCA Lab](https://publish.illinois.edu/humancenteredautonomy/) in [Electrical and Computer Engineering](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by Professor [Katie Driggs-Campbell](https://krdc.web.illinois.edu/). Before my PhD journey, I was an undergraduate at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), where I majored in Electrical Engineering.
 
 My current research focuses on the intersection of robotics and machine learning. My lifelong goal is to bring research ideas in papers to technology in daily life.
 
@@ -20,12 +20,12 @@ Research interests:
 
 News
 ---
-- **07/2022** Our paper "Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty" has been accepted by [CDC 2022](https://cdc2022.ieeecss.org/)!
-- **06/2022** Our paper "Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation" has been accepted by [ITSC 2022](https://www.ieee-itsc2022.org/#/)!
-- **05/2022** Our paper "Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots" has been accepted by [RO-MAN 2022](http://www.ro-man2022.org/)!
-- **04/2022:** Our paper "Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance" has been accepted by [RSS 2022](https://roboticsconference.org/program/papers/059/)! See you in New York in June!
+- **07/2022** Our paper "Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty" has been accepted at [CDC 2022](https://cdc2022.ieeecss.org/)!
+- **06/2022** Our paper "Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation" has been accepted at [ITSC 2022](https://www.ieee-itsc2022.org/#/)!
+- **05/2022** Our paper "Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots" has been accepted at [RO-MAN 2022](http://www.ro-man2022.org/)!
+- **04/2022:** Our paper "Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance" has been accepted at [RSS 2022](https://roboticsconference.org/program/papers/059/)! See you in New York in June!
 - **01/2022:** Our paper "Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion" has been accepted by [RA-L](https://ieeexplore.ieee.org/document/9720937)! Mini-abstract: Sensor fusion matters!
 - **02/2021:** I am honored to serve on the organizing committee at [CSLSC 2021](https://publish.illinois.edu/csl-student-conference-2021/)!
-- **10/2020:** Our paper "Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments" has been accepted by [CoRL 2020](https://proceedings.mlr.press/v155/ji21a.html)! Mini-abstract: Sense to perceive!
-- **05/2020:** Our paper "Online Monitoring for Safe Pedestrian-Vehicle Interactions" has been accepted by [ITSC 2020](https://ieeexplore.ieee.org/abstract/document/9294366)! Mini-abstract: Drive safe!
+- **10/2020:** Our paper "Multi-Modal Anomaly Detection for Unstructured and Uncertain Environments" has been accepted at [CoRL 2020](https://proceedings.mlr.press/v155/ji21a.html)! Mini-abstract: Sense to perceive!
+- **05/2020:** Our paper "Online Monitoring for Safe Pedestrian-Vehicle Interactions" has been accepted at [ITSC 2020](https://ieeexplore.ieee.org/abstract/document/9294366)! Mini-abstract: Drive safe!
 - **08/2019:** Start my PhD journey in [HCA Lab](https://publish.illinois.edu/humancenteredautonomy/)!
