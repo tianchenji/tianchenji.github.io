@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please find my CV [here](/files/CV.pdf) (Last updated 11/03/2021).
+Please find my CV [here](/files/CV_2022.pdf) (Last updated 09/07/2022).
