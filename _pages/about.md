@@ -20,6 +20,7 @@ Research interests:
 
 News
 ---
+- **01/2023** Our paper "Structural Attention-based Recurrent Variational Autoencoder for Highway Vehicle Anomaly Detection" has been accepted at [AAMAS 2023](https://aamas2023.soton.ac.uk/)!
 - **07/2022** Our paper "Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty" has been accepted at [CDC 2022](https://cdc2022.ieeecss.org/)!
 - **06/2022** Our paper "Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation" has been accepted at [ITSC 2022](https://www.ieee-itsc2022.org/#/)!
 - **05/2022** Our paper "Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots" has been accepted at [RO-MAN 2022](http://www.ro-man2022.org/)!
