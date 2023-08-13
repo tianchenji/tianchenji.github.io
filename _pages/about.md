@@ -16,14 +16,16 @@ Research interests:
 - Robot Perception
 - Sensor Fusion
 - Safe Autonomy
+- Motion Tracking
 - Machine Learning
 
 News
 ---
-- **01/2023:** Our paper "Structural Attention-based Recurrent Variational Autoencoder for Highway Vehicle Anomaly Detection" has been accepted at [AAMAS 2023](https://aamas2023.soton.ac.uk/)!
-- **07/2022:** Our paper "Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty" has been accepted at [CDC 2022](https://cdc2022.ieeecss.org/)!
-- **06/2022:** Our paper "Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation" has been accepted at [ITSC 2022](https://www.ieee-itsc2022.org/#/)!
-- **05/2022:** Our paper "Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots" has been accepted at [RO-MAN 2022](http://www.ro-man2022.org/)!
+- **06/2023:** Our paper "An Attentional Recurrent Neural Network for Occlusion-Aware Proactive Anomaly Detection in Field Robot Navigation" has been accepted at [IROS 2023](https://ieee-iros.org/)!
+- **01/2023:** Our paper "Structural Attention-based Recurrent Variational Autoencoder for Highway Vehicle Anomaly Detection" has been accepted at [AAMAS 2023](https://www.southampton.ac.uk/~eg/AAMAS2023/forms/contents.htm)!
+- **07/2022:** Our paper "Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty" has been accepted at [CDC 2022](https://ieeexplore.ieee.org/document/9992704)!
+- **06/2022:** Our paper "Combining Model-Based Controllers and Generative Adversarial Imitation Learning for Traffic Simulation" has been accepted at [ITSC 2022](https://ieeexplore.ieee.org/document/9922261)!
+- **05/2022:** Our paper "Examining Audio Communication Mechanisms for Supervising Fleets of Agricultural Robots" has been accepted at [RO-MAN 2022](https://ieeexplore.ieee.org/document/9900859?denied=)!
 - **04/2022:** Our paper "Traversing Supervisor Problem: An Approximately Optimal Approach to Multi-Robot Assistance" has been accepted at [RSS 2022](https://roboticsconference.org/program/papers/059/)! See you in New York in June!
 - **01/2022:** Our paper "Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion" has been accepted by [RA-L](https://ieeexplore.ieee.org/document/9720937)! Mini-abstract: Sensor fusion matters!
 - **02/2021:** I am honored to serve on the organizing committee at [CSLSC 2021](https://publish.illinois.edu/csl-student-conference-2021/)!
