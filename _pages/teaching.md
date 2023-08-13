@@ -11,6 +11,7 @@ author_profile: true
 
 ### Journal Reviewer
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Robotics and Automation Letters (RA-L)
 
 ### Conference Reviewer
 - IEEE International Conference on Intelligent Robots and Systems (IROS)
