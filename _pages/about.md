@@ -21,6 +21,7 @@ Research interests:
 
 News
 ---
+- **08/2023:** Our paper "A Data-Efficient Visual-Audio Representation with Intuitive Fine-tuning for Voice-Controlled Robots" has been accrpted at [CoRL 2023](https://openreview.net/forum?id=dxOaNO8bge)!
 - **06/2023:** Our paper "An Attentional Recurrent Neural Network for Occlusion-Aware Proactive Anomaly Detection in Field Robot Navigation" has been accepted at [IROS 2023](https://ieee-iros.org/)!
 - **01/2023:** Our paper "Structural Attention-based Recurrent Variational Autoencoder for Highway Vehicle Anomaly Detection" has been accepted at [AAMAS 2023](https://www.southampton.ac.uk/~eg/AAMAS2023/forms/contents.htm)!
 - **07/2022:** Our paper "Robust Output Feedback MPC with Reduced Conservatism under Ellipsoidal Uncertainty" has been accepted at [CDC 2022](https://ieeexplore.ieee.org/document/9992704)!
