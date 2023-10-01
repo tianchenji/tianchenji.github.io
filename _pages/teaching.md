@@ -17,4 +17,5 @@ author_profile: true
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE International Conference on Intelligent Robots and Systems (IROS)
 - IEEE International Conference on Intelligent Transportation Systems (ITSC)
+- IEEE Intelligent Vehicles Symposium (IV)
 - IEEE Conference on Decision and Control (CDC)
