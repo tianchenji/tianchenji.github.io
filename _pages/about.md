@@ -15,9 +15,9 @@ My current research focuses on the intersection of robotics and machine learning
 Research interests:
 - Robot Perception
 - Sensor Fusion
-- Safe Autonomy
 - Motion Tracking
 - Machine Learning
+- Safe Autonomy
 
 News
 ---
