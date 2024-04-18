@@ -13,10 +13,10 @@ I'm a fifth year PhD student in [HCA Lab](https://publish.illinois.edu/humancent
 My current research focuses on the intersection of robotics and machine learning. My lifelong goal is to bring research ideas in papers to technology in daily life.
 
 Research interests:
-- Robot Perception
+- Machine Perception
 - Sensor Fusion
-- Motion Tracking
 - Machine Learning
+- Motion Tracking
 - Safe Autonomy
 
 News
