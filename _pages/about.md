@@ -16,8 +16,8 @@ Research interests:
 - Machine Perception
 - Sensor Fusion
 - Machine Learning
+- Representation Learning
 - Motion Tracking
-- Safe Autonomy
 
 News
 ---
